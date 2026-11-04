@@ -19,6 +19,4 @@ Microsoft Store
 Apple App Store (Xcode project, needs an Apple Developer account)
 <img width="512" height="512" alt="maskable-512" src="https://github.com/user-attachments/assets/2c2cddd5-8aa1-468b-9e62-8cdfeddb6615" />
 <img width="512" height="512" alt="icon-512" src="https://github.com/user-attachments/assets/84472ab2-1186-4fdc-995b-3ab80c518034" />
-<img width="192" height="192" alt="icon-192" src="https://github.com/user-attachments/assets/c129c9b3-a90a-4fa9-9632-c6be7679c977" />
-<img width="32" height="32" alt="favicon-32" src="https://github.com/user-attachments/assets/8fe56744-d7dd-4481-9efb-f794abd7af78" />
-<img width="180" height="180" alt="apple-touch-icon" src="https://github.com/user-attachments/assets/c70c3c7d-342e-4393-8289-7f5e6641ba2f" />
+
