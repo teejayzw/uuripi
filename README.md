@@ -1,3 +1,8 @@
+
+
+[sw.js](https://github.com/user-attachments/files/34374831/sw.js)
+
+[index.html](https://github.com/user-attachments/files/34374798/index.html)
 Uripi
 Photo-based location and nearby-places finder, packaged as an installable web app (PWA).
 Files
